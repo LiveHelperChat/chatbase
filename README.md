@@ -1,4 +1,4 @@
-# link mobility integration
+# Chatbase integration
 https://www.chatbase.co/ support as a bot.
 
 # Installation
